@@ -38,6 +38,8 @@ body {
     width: 125px;
     text-align: center;
     font-style: italic;
+    margin-top: -1px;
+    margin-right: -1px;
   }
   .itemDescription {
     width: 100%;
