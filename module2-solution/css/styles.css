@@ -32,6 +32,12 @@ body {
     padding: 5px 20px 5px 20px;
     margin-left: auto;
     color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 125px;
+    text-align: center;
+    font-style: italic;
   }
   .itemDescription {
     width: 100%;
@@ -50,6 +56,9 @@ body {
     margin-left: 5px;
     margin-right: 5px;
     background-color: #f3c43e;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
   }
   img {
     width: 100%;
