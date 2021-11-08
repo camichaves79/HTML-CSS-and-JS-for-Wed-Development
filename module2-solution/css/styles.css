@@ -14,7 +14,7 @@ body {
   h1 {
     font-family: 'Italianno', cursive;
     margin-bottom: 15px;
-    text-align: center;
+    /* text-align: center; */
     font-size: 96px;
     color: #9f0102;
     text-decoration: underline;
@@ -48,7 +48,7 @@ body {
     margin-left: auto; */
     font-family: Helvetica;
     color: rgb(0, 0, 0);
-    padding: 20px;
+    padding: 5px;
     text-align: justify;
     background-color: #f3c43e;
   }
@@ -74,10 +74,10 @@ body {
   /* Simple Responsive Framework. */
   .row {
     width: 100%;
-    padding: 0px 30px 16px 30px;
+    padding: 0px 5px 4px 5px;
   }
   
-  /********** Large devices only **********/
+  /* ********* Large devices only *********
   @media (min-width: 992px) {
     .row {
       width: 100%;
@@ -172,6 +172,6 @@ body {
     .col-md-12 {
       width: 100%;
     }
-  }
+  } */
 
   
